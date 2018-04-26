@@ -1,6 +1,6 @@
 {
   "name": "@connected-home/serverless",
-  "version": "0.5.6-rogue.4",
+  "version": "0.5.6-rogue.5",
   "engines": {
     "node": ">=4.0"
   },
